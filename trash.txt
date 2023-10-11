@@ -1,0 +1,9 @@
+események lehetnek:
+barlang - (elment a játékos bányászni - talált gyémántot -> megszerezte / beleesett egy lávatóba és meghalt - )
+        -(talált mobspawner)
+mobok - több féle kijövetel ( sebződés, meghalás, loot, stb)
+nether ruin - több féle loot (aranykapa, aranykard stb,)
+alvás - megjöttek a phantomok mert sokáig nem aludtál, felébredtél egy új napra
+megzazázott a creeper
+
+
