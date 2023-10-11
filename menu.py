@@ -7,6 +7,7 @@ def fomenu():
     print('6 - Táplálkozás')
     valasz = int(input('Választás:'))
     match valasz:
-        case 1 =
+        case 1:
+            event() 
             
     
